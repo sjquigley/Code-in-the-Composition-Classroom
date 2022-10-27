@@ -1,41 +1,48 @@
 # *the Pitt Fuego Workshop*
 *An introduction to Pitt Fuego, a basic code education tool designed for the rhetoric and composition classroom*
-
-If you end up using/adapting our tools for the classroom, we'd love to hear from you. Could you please fill out this [user feedback form](https://docs.google.com/forms/d/e/1FAIpQLSenZSrjl9eR6IWGgvG_ddgsJUh6poq4StOxv96pJDjHB_Kr8g/viewform)? <p>&nbsp;</p>
-
-
-## Intro to basic coding and Open Fuego
-
-[Pitt Fuego Intro](https://sjquigley.github.io/Pitt-Fuego-Presentation/)
-
-[Pitt Fuego Tools
-](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)<p>&nbsp;</p>
-
-## Getting Started working with Code
-
-*What is GitHub and what is a READ ME?*
-
-[I am...a project in becoming ](https://github.com/Pitt-Fuego/I-am-a-project-in-becoming)
-
-[Electrate Fuego ](https://github.com/Pitt-Fuego/Electrate-Fuego)
-
-:clapper:
-[Electrate Fuego 5 Minute Videao Tutorial](https://outu.be/drINeC4G40A)<p>&nbsp;</p>
+###https://bit.ly/3DBVxxy<p>&nbsp;</p>
 
 
-## Pitt Fuego Webtext Generator
+## Workshop Goals
 
-[Pitt Fuego Webtext Generator ](https://github.com/Pitt-Fuego/open-fuego-webtext-generator)
+Learn...
 
-:clapper:
-[Pitt Fuego 3 Minute Video Tutorial ](https://youtu.be/QzMJtLUncIg)<p>&nbsp;</p>
+* how you can easily work with code to create webtexts amd websites. 
+
+* how to use a code editor to work with code.
+
+* how to build repositories and host sites using GitHub.
+
+* how to find resources and support to sustain your learning.
+<p>&nbsp;</p>
+
+## Proceedings
+* [What is Pitt Fuego?](https://sjquigley.github.io/Pitt-Fuego-Presentation/) - Software design and pedagogical goals.
+
+* [Where do I find it?](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/) - Tool descriptions, demos, and links to GitHub repositories.
+
+* [I am...a project in becoming ](https://github.com/Pitt-Fuego/I-am-a-project-in-becoming)- Build your own webtext.
+
+* [Workshop Feedback](https://docs.google.com/forms/d/e/1FAIpQLSffIR6Cml15Gz_4Enxp39Pq3ynN9ivYxCeZTf3J5Q8e9NZsWg/viewform?usp=sf_link) - I'd love to learn a little about how that went. 
+
+<p>&nbsp;</p>
 
 
+## Resources
 
-## Additional Resources
-- [Best Practices for Collaborating on GitHub](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom)
-- [W3](https://www.w3schools.com) provides a wide range of code reference, tutorials, and a sandbox allowing code play.
-- [Stack Overflow](https://stackoverflow.com) Code questions and aggregated answers.<p>&nbsp;</p>
+* [I am...a Project in Becoming Instructional Video](https://youtu.be/cJiYas7B9Us)
+
+* [Atom Code Editor Set Up](https://github.com/Pitt-Fuego/Setting-Up-Atom-Code-Editor) - optimize Atom for working with Pitt Fuego.
+
+* [MarkDown Reference](https://daringfireball.net/projects/markdown/) - write Markdown like a pro.
+
+* [W3](https://www.w3schools.com) - find a wide range of code reference, tutorials, and a sandbox for code play.
+
+* [Stack Overflow](https://stackoverflow.com) - Find a community with ranked answers to your questions.
+
+* [Pitt Server Quickstart](https://github.com/Pitt-Fuego/Pitt-Server-Quickstart) - Harness the power of Pitt's server.
+
+<p>&nbsp;</p>
 
 ## Suggested Text Editors 
 
@@ -106,16 +113,15 @@ Setting up Atom for Mac/Windows and CodePad for Chromebooks
 
 SAMPLE TEACHING CYCLE (3 projects)
 
-* Classroom/Code Icebreaker Start your class with code. Combine the standard introduction with code, presenting who they are, where they came from, and where they want to go. (see: Electrate Fuego or I AM...a Project in Becoming.)
+* Classroom/Code Icebreaker Start your class with code. Combine the standard introduction with code, presenting who they are, where they came from, and where they want to go. (see: [Electrate Fuego](https://github.com/Pitt-Fuego/Electrate-Fuego) or [I AM...a Project in Becoming.](https://github.com/Pitt-Fuego/I-am-a-project-in-becoming))
 
-* Stasis Theory Project Students will work with code to figure out what they want to write or what they want to make by constructing a question, conjecture, definition, quality, and policy. (see: Stasis Theory Machine, Elevator Pitch Generator)
+* Stasis Theory Project Students will work with code to figure out what they want to write or what they want to make by constructing a question, conjecture, definition, quality, and policy. (see: [Stasis Theory Machine](https://github.com/Pitt-Fuego/stasis-theory-machine), [Elevator Pitch Generator](https://github.com/Pitt-Fuego/elevator-pitch-generator))
 
-* Multimodal Communication Document - Students will use the Pitt Fuego Webtext Generator to make a mobile-ready multimodal communication document. (See Pitt Fuego or any of our other Presentation Methods.<p>&nbsp;</p>
+* Multimodal Communication Document - Students will use the [Pitt Fuego Webtext Generator](https://github.com/Pitt-Fuego/pitt-fuego-webtext-generator) to make a mobile-ready multimodal communication document. (See Pitt Fuego or any of our other Presentation Methods.<p>&nbsp;</p>
 
 
 
 **Stephen Quigley, University of Pittsburgh, [sjq4@pitt.edu](sjq4@pitt.edu)**
-
 
  
 
